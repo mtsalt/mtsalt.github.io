@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>foot_print</title>
+    <link>http://mtsalt.github.io.org/</link>
+    <description>Recent content on foot_print</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 27 Mar 2021 18:32:09 +0900</lastBuildDate>
+    
+	<atom:link href="http://mtsalt.github.io.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Test</title>
+      <link>http://mtsalt.github.io.org/post/test/</link>
+      <pubDate>Sat, 27 Mar 2021 18:32:09 +0900</pubDate>
+      
+      <guid>http://mtsalt.github.io.org/post/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
