@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>foot_print</title>
     <link>https://examplesite.com/</link>
     <description>Recent content on foot_print</description>
-    <image>
-      <title>foot_print</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test</title>
+      <link>https://examplesite.com/test/</link>
+      <pubDate>Wed, 22 Nov 2023 01:49:45 +0000</pubDate>
+      
+      <guid>https://examplesite.com/test/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
