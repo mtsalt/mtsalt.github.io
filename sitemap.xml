@@ -2,8 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://mtsalt.github.io/posts/first-article/</loc>
+    <lastmod>2024-05-05T03:26:40+00:00</lastmod>
+  </url><url>
     <loc>https://mtsalt.github.io/</loc>
-    <lastmod>2024-04-20T03:07:37+00:00</lastmod>
+    <lastmod>2024-05-05T03:26:40+00:00</lastmod>
+  </url><url>
+    <loc>https://mtsalt.github.io/posts/</loc>
+    <lastmod>2024-05-05T03:26:40+00:00</lastmod>
   </url><url>
     <loc>https://mtsalt.github.io/categories/</loc>
   </url><url>
