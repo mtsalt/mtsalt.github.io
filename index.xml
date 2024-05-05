@@ -15,5 +15,19 @@
       <guid>https://mtsalt.github.io/posts/first-article/</guid>
       <description>Hello, world!</description>
     </item>
+    <item>
+      <title>Profile</title>
+      <link>https://mtsalt.github.io/profile/</link>
+      <pubDate>Wed, 01 May 2024 03:07:37 +0000</pubDate>
+      <guid>https://mtsalt.github.io/profile/</guid>
+      <description>under construction</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>https://mtsalt.github.io/about/</link>
+      <pubDate>Wed, 01 May 2024 02:20:03 +0000</pubDate>
+      <guid>https://mtsalt.github.io/about/</guid>
+      <description>under construction</description>
+    </item>
   </channel>
 </rss>
