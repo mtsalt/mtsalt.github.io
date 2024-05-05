@@ -1,1 +1,3 @@
 User-agent: *
+Disallow:
+Sitemap: https://mtsalt.github.io/sitemap.xml
